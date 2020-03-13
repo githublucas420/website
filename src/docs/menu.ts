@@ -91,59 +91,59 @@ export const MENU: MenuEntry[] = [
     ),
     M(
         "Languages & Frameworks",
-        "languages-and-frameworks",
+        "languages-and-frameworks/languages-and-frameworks",
         [
             M(
                 "Python",
-                "python-in-gitpod"
+                "languages-and-frameworks/python-in-gitpod"
             ),
             M(
                 "HTML/CSS",
-                "html-in-gitpod"
+                "languages-and-frameworks/html-in-gitpod"
             ),
             M(
                 "Java",
-                "java-in-gitpod"
+                "languages-and-frameworks/java-in-gitpod"
             ),
             M(
                 "C++",
-                "cpp-in-gitpod"
+                "languages-and-frameworks/cpp-in-gitpod"
             ),
             M(
                 "Go",
-                "go-in-gitpod"
+                "languages-and-frameworks/go-in-gitpod"
             ),
             M(
                 "Bash",
-                "bash-in-gitpod"
+                "languages-and-frameworks/bash-in-gitpod"
             ),
             M(
                 "Ruby",
-                "ruby-in-gitpod"
+                "languages-and-frameworks/ruby-in-gitpod"
             ),
             M(
                 "PHP",
-                "php-in-gitpod"
+                "languages-and-frameworks/php-in-gitpod"
             ),
             M(
                 "Vue.js",
-                "vue-in-gitpod"
+                "languages-and-frameworks/vue-in-gitpod"
             ),
             M(
                 "Rust",
-                "rust-in-gitpod"
+                "languages-and-frameworks/rust-in-gitpod"
             ),
             M(
                 ".NET",
-                "dotnet-in-gitpod"
+                "languages-and-frameworks/dotnet-in-gitpod"
             ),
             M(
                 "Julia",
-                "julia-in-gitpod"
+                "languages-and-frameworks/julia-in-gitpod"
             ),
             M(
                 "R",
-                "r-in-gitpod"
+                "languages-and-frameworks/r-in-gitpod"
             )
         ]
     ),
